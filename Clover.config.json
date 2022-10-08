@@ -1,0 +1,7 @@
+{
+    "version": "DEV-100722",
+
+    "owners": ["805277086637752373"],
+    "mongoURI": "mongodb+srv://Clover:Speedrunner2@teckbor.1t66r.mongodb.net/Clover?retryWrites=true&w=majority",
+    "testServer": "872418898484555857"
+}
