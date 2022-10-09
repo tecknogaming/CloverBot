@@ -90,7 +90,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-src/
+# src/
 bin
 
 # Gatsby files

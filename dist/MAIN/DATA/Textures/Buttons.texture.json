@@ -1,0 +1,13 @@
+{
+    "button_exit": "❌",
+    "button_exit_dungeon": "🕳",
+    "button_pause": "⏸",
+    "button_open_panel": "🖥",
+    "button_action_default": "⬛",
+    "button_open_bag": "🎒",
+
+    "buttom_move_up": "🔼",
+    "buttom_move_down": "🔽",
+    "buttom_move_left": "◀",
+    "buttom_move_right": "▶"
+}
