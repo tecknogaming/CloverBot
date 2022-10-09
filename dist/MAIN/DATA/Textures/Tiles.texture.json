@@ -1,6 +1,7 @@
 {
     "tile_player": "🟣",
     "tile_floor": "⬛",
+
     "tile_wall": "🔲",
     "tile_wall_top": "🔲",
     "tile_wall_side": "🔲",
@@ -9,7 +10,9 @@
     "tile_wall_corner_2": "🔲",
     "tile_wall_corner_3": "🔲",
     "tile_wall_corner_4": "🔲",
+
     "tile_stairs": "🔽",
     "tile_ladders": "🔼",
+
     "tile_portal_1": "🌀"
 }

@@ -1,0 +1,10 @@
+[
+    {
+        "uuid": "36f04de8-0ec6-49ce-a92f-969c0ae56cdb",
+        "manifest": {
+            "name": "Stick",
+            "description": "A crafting material",
+            "type": "Material"
+        }
+    }
+]
