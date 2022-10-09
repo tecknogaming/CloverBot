@@ -1,0 +1,25 @@
+[
+    {
+        "uuid": "c258448a-c53f-405e-aa05-c46ae0f905ff",
+        "manifest": {
+            "name": "Goblin",
+            "health": 10,
+
+            "canBeCorrupted": true,
+            "maxDungeonLevelEncounter": 5,
+
+            "basicAttackDamage": 3,
+            "specialAttacks": [
+                {
+                    "name": "Club",
+                    "type": "physical",
+                    "damage": 6
+                }
+            ],
+
+            "dropTable": [
+                "36f04de8-0ec6-49ce-a92f-969c0ae56cdb"
+            ]
+        }
+    }
+]
